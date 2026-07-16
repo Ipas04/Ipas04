@@ -57,7 +57,7 @@
 
 📧 Email: alfan.fauzi11104@gmail.com
 
-💼 LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/muhammadalfanfauzi/)
+💼 LinkedIn: [https://www.linkedin.com/in/muhammadalfanfauzi/](https://www.linkedin.com/in/muhammadalfanfauzi/)
  
  
 ### Github Statistic
